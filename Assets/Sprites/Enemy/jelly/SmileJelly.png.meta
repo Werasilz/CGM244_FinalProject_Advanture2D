@@ -1,0 +1,769 @@
+fileFormatVersion: 2
+guid: 1e5c9023a83789d42b9e252bf965d612
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -819460839046888483
+    second: SmileJelly_0
+  - first:
+      213: 449108945641029570
+    second: SmileJelly_1
+  - first:
+      213: 8926243455491568061
+    second: SmileJelly_2
+  - first:
+      213: 5336486882711279535
+    second: SmileJelly_3
+  - first:
+      213: -3667213485979653533
+    second: SmileJelly_4
+  - first:
+      213: -4452875573444695443
+    second: SmileJelly_5
+  - first:
+      213: -8286341177101436009
+    second: SmileJelly_6
+  - first:
+      213: 4916369221825563728
+    second: SmileJelly_7
+  - first:
+      213: -8373284615743076491
+    second: SmileJelly_8
+  - first:
+      213: 953450128767310410
+    second: SmileJelly_9
+  - first:
+      213: -3432514173706649351
+    second: SmileJelly_10
+  - first:
+      213: -5776648766989426828
+    second: SmileJelly_11
+  - first:
+      213: 3273828357903729189
+    second: SmileJelly_12
+  - first:
+      213: -2535851048151996160
+    second: SmileJelly_13
+  - first:
+      213: -5293419516724226653
+    second: SmileJelly_14
+  - first:
+      213: -940856898259769267
+    second: SmileJelly_15
+  - first:
+      213: 8669860150096394619
+    second: SmileJelly_16
+  - first:
+      213: 6936187436655920989
+    second: SmileJelly_17
+  - first:
+      213: -2647043779039279166
+    second: SmileJelly_18
+  - first:
+      213: 5546269582966673414
+    second: SmileJelly_19
+  - first:
+      213: 1856102502752306771
+    second: SmileJelly_20
+  - first:
+      213: -4173969649596821599
+    second: SmileJelly_21
+  - first:
+      213: 8577914240495866959
+    second: SmileJelly_22
+  - first:
+      213: 3663102919574309966
+    second: SmileJelly_23
+  - first:
+      213: -6814979664845584983
+    second: SmileJelly_24
+  - first:
+      213: 7638329024782746088
+    second: SmileJelly_25
+  - first:
+      213: -4032115546112771572
+    second: SmileJelly_26
+  - first:
+      213: 2891466439692869367
+    second: SmileJelly_27
+  - first:
+      213: 7160276331598554869
+    second: SmileJelly_28
+  - first:
+      213: -5043437481991522960
+    second: SmileJelly_29
+  - first:
+      213: 7507801658438249999
+    second: SmileJelly_30
+  - first:
+      213: 3409886888604723837
+    second: SmileJelly_31
+  - first:
+      213: -9019081734558170467
+    second: SmileJelly_32
+  - first:
+      213: -305640592366761864
+    second: SmileJelly_33
+  - first:
+      213: -3054421784255339707
+    second: SmileJelly_34
+  - first:
+      213: -7492206737745250582
+    second: SmileJelly_35
+  - first:
+      213: 4120923424399747128
+    second: SmileJelly_36
+  - first:
+      213: 2648576519440040165
+    second: SmileJelly_37
+  - first:
+      213: 8473149278436308793
+    second: SmileJelly_38
+  - first:
+      213: 6850977184189479297
+    second: SmileJelly_39
+  - first:
+      213: 3235217936519278214
+    second: SmileJelly_40
+  - first:
+      213: -2956533841695826771
+    second: SmileJelly_41
+  - first:
+      213: -5027969231402874812
+    second: SmileJelly_42
+  - first:
+      213: 548590200099933327
+    second: SmileJelly_43
+  - first:
+      213: -8711730581168443560
+    second: SmileJelly_44
+  - first:
+      213: -5382705022581242454
+    second: SmileJelly_45
+  - first:
+      213: 7862776953622263383
+    second: SmileJelly_46
+  - first:
+      213: -2632323939013062391
+    second: SmileJelly_47
+  - first:
+      213: -776297278811679178
+    second: SmileJelly_48
+  - first:
+      213: 1124256917354011290
+    second: SmileJelly_49
+  - first:
+      213: 7728279730293289173
+    second: SmileJelly_50
+  - first:
+      213: -4520066544535387249
+    second: SmileJelly_51
+  - first:
+      213: -5997351514508903554
+    second: SmileJelly_52
+  - first:
+      213: -5675164947661123689
+    second: SmileJelly_53
+  - first:
+      213: -2974485614640558030
+    second: SmileJelly_54
+  - first:
+      213: 4750903139263967433
+    second: SmileJelly_55
+  - first:
+      213: 7221880817817445263
+    second: SmileJelly_56
+  - first:
+      213: -4619913522302013930
+    second: SmileJelly_57
+  - first:
+      213: -2673054034986698699
+    second: SmileJelly_58
+  - first:
+      213: -3359397860767022761
+    second: SmileJelly_59
+  - first:
+      213: -747247245785316417
+    second: SmileJelly_60
+  - first:
+      213: 1657468971582097285
+    second: SmileJelly_61
+  - first:
+      213: -147319920820808949
+    second: SmileJelly_62
+  - first:
+      213: -5993884934075903530
+    second: SmileJelly_63
+  - first:
+      213: 6114277970979109301
+    second: SmileJelly_64
+  - first:
+      213: 6550229065836464628
+    second: SmileJelly_65
+  - first:
+      213: 4312713962057813206
+    second: SmileJelly_66
+  - first:
+      213: 5655625285841658042
+    second: SmileJelly_67
+  - first:
+      213: 3243719256790731110
+    second: SmileJelly_68
+  - first:
+      213: -2990067956030000865
+    second: SmileJelly_69
+  - first:
+      213: -5145353507050742085
+    second: SmileJelly_70
+  - first:
+      213: 7780351380431745147
+    second: SmileJelly_71
+  - first:
+      213: -8383956281059373788
+    second: SmileJelly_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmileJelly_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1571
+        width: 253
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b797fc22fd7815870800000000000000
+      internalID: 8669860150096394619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmileJelly_17
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1571
+        width: 254
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57476169b9424060800000000000000
+      internalID: 6936187436655920989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmileJelly_18
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1573
+        width: 254
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7c47525bfc34bd0800000000000000
+      internalID: -2647043779039279166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmileJelly_19
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1571
+        width: 254
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6005841ecce48fc40800000000000000
+      internalID: 5546269582966673414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmileJelly_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1239
+        width: 253
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1897be3737f831f50800000000000000
+      internalID: 6850977184189479297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmileJelly_40
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1239
+        width: 254
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e2435829dc5ec20800000000000000
+      internalID: 3235217936519278214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmileJelly_41
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1241
+        width: 254
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac9c47a22848f6d0800000000000000
+      internalID: -2956533841695826771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmileJelly_42
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1239
+        width: 254
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44843a49f90193ab0800000000000000
+      internalID: -5027969231402874812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmileJelly_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 896
+        width: 253
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f09e46c83cd31b0800000000000000
+      internalID: -5675164947661123689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmileJelly_54
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 895
+        width: 253
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23017ddc71188b6d0800000000000000
+      internalID: -2974485614640558030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmileJelly_55
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 895
+        width: 254
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0fd1adb399ee140800000000000000
+      internalID: 4750903139263967433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmileJelly_56
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 895
+        width: 254
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8367343756493460800000000000000
+      internalID: 7221880817817445263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmileJelly_57
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 658
+        width: 250
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e2a2af025c2efb0800000000000000
+      internalID: -4619913522302013930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmileJelly_58
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 665
+        width: 254
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5387133848767ead0800000000000000
+      internalID: -2673054034986698699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmileJelly_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 328
+        width: 253
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab02f419b31dc7e40800000000000000
+      internalID: 5655625285841658042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmileJelly_68
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 327
+        width: 253
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6690b146a71040d20800000000000000
+      internalID: 3243719256790731110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmileJelly_69
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 327
+        width: 254
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11bd8a39052186d0800000000000000
+      internalID: -2990067956030000865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmileJelly_70
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 327
+        width: 254
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe1e602f380898b0800000000000000
+      internalID: -5145353507050742085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmileJelly_71
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 90
+        width: 250
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70ba52cb5c59fb60800000000000000
+      internalID: 7780351380431745147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmileJelly_72
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 97
+        width: 254
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d0d07be2436ab80800000000000000
+      internalID: -8383956281059373788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
